@@ -24,7 +24,7 @@ Small business owners and landlords, earning solidly upper-middle income.
 
 ## G4 - Transitional Gentry
 
-Community college students coming from L2. A 4-year degree will push thme up into G3.
+Community college students coming from L2. A 4-year degree will push them up into G3.
 
 ## G3 - Primary Gentry
 
@@ -32,8 +32,8 @@ The "upper-middle class" with 4-year degrees, earning $30k - $200k per year.
 
 ## G2 - High Gentry
 
-From elite colleges in junior executive roles in medium-sized companies, innovative startups, management consultancies, and investment banking. 
-Also a college professor, scientist, entrepreneur, or writer. Seek  intellectual and financial reward from their career.
+Graduates from elite colleges working as junior executive roles in medium-sized companies, innovative startups, management consultancies, and investment banks.
+Also college professors, scientists, entrepreneurs and writers. Seek both intellectual and financial reward from their career.
 
 ## G1 - Cultural Influencers
 
@@ -59,13 +59,13 @@ They don't care about culture or morals, only control on a global scale. Hitler,
 
 ### Notes
 
-**Celebrities** - Celebrity is either L1 or E3, not usually G1.
+**Celebrities** - Either L1 - *Labor Leader* or E3 - *Elite Servant*, not usually G1 - *Cultural Influencer*.
 
 **Presidents**
 
-- Barack Obama is G1
-- George Bush is E2
-- Bill Clinton was E3
-- Reagan was L1
-- Kennedy was E2
-- Lyndon Johnson was L1
+- Barack Obama is G1 - *Cultural Influencer*
+- George Bush is E2 - *National Elite*
+- Bill Clinton is E3 - *Elite Servant*
+- Reagan was L1 - *Labor Leader*
+- Kennedy was E2 - *National Elite*
+- Lyndon Johnson was L1 - *Labor Leader*
