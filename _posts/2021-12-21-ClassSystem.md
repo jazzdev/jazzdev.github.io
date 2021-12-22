@@ -59,7 +59,11 @@ They don't care about culture or morals, only control on a global scale. Hitler,
 
 ### Notes
 
-**Celebrities** - Either L1 - *Labor Leader* or E3 - *Elite Servant*, not usually G1 - *Cultural Influencer*.
+**Celebrities** - Well-known people can come from any of the 3 ladders.
+
+- Labor celebrities are L1 - *Labor Leader*
+- Gentry celebrities are G1 - *Cultural Influencer*, but big celebrities tend to come from the other ladders
+- Elite celebrities are E3 - *Elite Servant*, the National and Global elites prefer to work behind the scenes
 
 **Presidents**
 
