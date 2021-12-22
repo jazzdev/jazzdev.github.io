@@ -57,6 +57,18 @@ with institutions without getting too involved.
 The very rich, extremely powerful and trans-national. The corporate billionaires, drug kingpins, third-world despots and real estate magnates. 
 They don't care about culture or morals, only control on a global scale. Hitler, Stalin, Henry Kissinger, Osama bin Laden.
 
+```mermaid!
+pie title Class Breakdown
+  "U" : 10
+  "L4" : 30
+  "L3" : 20
+  "L2" : 14
+  "L1" : 1
+  "G4" : 5
+  "G3" : 16
+  "G2" : 2
+```
+
 ### Notes
 
 **Celebrities** - Well-known people can come from any of the 3 ladders.
